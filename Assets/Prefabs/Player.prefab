@@ -51,6 +51,8 @@ MonoBehaviour:
   bulletPrefab: {fileID: 3840057124281061026, guid: d4dbf97559372474b88a06693e9c7ef0, type: 3}
   bigBulletPrefab: {fileID: 7136495255758892997, guid: 9744c2981d760664e9a0e290fdf9d856, type: 3}
   explosionPrefab: {fileID: 3367197991594930512, guid: b841ed39409a3a74e956ed9bfcfeda4b, type: 3}
+  thrusterPrefab: {fileID: 3367197991594930512, guid: 4e5fd8ebe40803243b5bd5fc5a80c87e, type: 3}
+  shieldPrefab: {fileID: 3367197991594930512, guid: dce0d689caa9e5745bfc807e03204cb8, type: 3}
 --- !u!61 &4933505135560351935
 BoxCollider2D:
   m_ObjectHideFlags: 0
